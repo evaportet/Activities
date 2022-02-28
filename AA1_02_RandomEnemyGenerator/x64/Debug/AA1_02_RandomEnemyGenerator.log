@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\evapo\source\repos\alexpatox1999\Activities\AA1_02_RandomEnemyGenerator\main.cpp(8,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  AA1_02_RandomEnemyGenerator.vcxproj -> C:\Users\evapo\source\repos\alexpatox1999\Activities\x64\Debug\AA1_02_RandomEnemyGenerator.exe
