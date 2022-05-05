@@ -1,0 +1,9 @@
+﻿  Main.cpp
+D:\2n ENTI\PROGRA DE 1R\Activities\AA1_03_AGameBoard\Board.h(188,40): warning C4553: '==': result of expression not used; did you intend '='?
+D:\2n ENTI\PROGRA DE 1R\Activities\AA1_03_AGameBoard\Board.h(196,40): warning C4553: '==': result of expression not used; did you intend '='?
+D:\2n ENTI\PROGRA DE 1R\Activities\AA1_03_AGameBoard\Board.h(204,40): warning C4553: '==': result of expression not used; did you intend '='?
+D:\2n ENTI\PROGRA DE 1R\Activities\AA1_03_AGameBoard\Board.h(212,40): warning C4553: '==': result of expression not used; did you intend '='?
+D:\2n ENTI\PROGRA DE 1R\Activities\AA1_03_AGameBoard\Main.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\2n ENTI\PROGRA DE 1R\Activities\AA1_03_AGameBoard\Board.h(180): warning C4715: 'Board::checkMovement': not all control paths return a value
+D:\2n ENTI\PROGRA DE 1R\Activities\AA1_03_AGameBoard\Board.h(228): warning C4715: 'Board::existsCoin': not all control paths return a value
+  AA1_03_AGameBoard.vcxproj -> D:\2n ENTI\PROGRA DE 1R\Activities\x64\Debug\AA1_03_AGameBoard.exe
